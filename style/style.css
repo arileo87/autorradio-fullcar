@@ -1,0 +1,206 @@
+*{
+      margin: 0;
+      padding: 0;
+     
+
+}
+
+/*fuente google font*/
+
+/*font roboto condensado*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+/*font-family: "Roboto Condensed", sans-serif;*/
+
+/*logo de la web*/
+
+.logo{ 
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+}
+
+body{
+      font-size: 20px;
+      font-family: "Roboto Condensed", sans-serif;
+      background-color: black;
+
+}
+/*parte superior de la web*/
+header{
+      padding-top: 16px;
+}
+
+
+    
+    
+    
+    
+
+
+    
+
+
+
+/*pie de pagina*/
+.p-footer{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(243, 243, 247);
+      font-size: 15px;
+      text-align: center;
+}
+h1{
+      color: rgba(207, 171, 11, 0.719);
+      text-align: center;
+      font-size: 45px;
+      margin: 20px;
+}
+
+h2{
+      color: rgba(37, 124, 238, 0.637);
+      text-align: center;
+      font-size: 35px;
+      margin-bottom: 25px;
+      margin-top: 25px;
+     
+}
+
+
+h3{
+      font-size:35px;
+      color: rgba(13, 182, 7, 0.651);
+
+}
+/*parrafo gral*/
+p{
+      color: white;
+      
+      
+      
+      
+      
+}
+
+strong{
+      color: yellow;
+      font-size: 22px;
+
+}
+
+
+
+.-portada{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row;
+      width: 1000px;
+      
+      
+}
+
+.p-section{
+      color: rgb(146, 106, 5);
+      font-size: 30px;
+}
+/*iconos footer*/
+.icon-foot{
+      display: flex;
+      justify-content:center;}
+     
+/*imagen marcas*/
+.-marcas{
+      display: flex;
+      gap: 80px;
+      margin: 40px;
+      flex-direction: column;
+      align-items: center;
+    
+}
+/*imagen servicio*/
+.img-servicios{
+     display: flex;
+     align-items: stretch;
+.img-fluid{
+      height: 600px;
+      margin-bottom: 20px;
+
+
+}
+     
+     
+    
+}
+
+.nav-mia{
+      background-color: rgb(91, 96, 100);
+     
+      
+
+}
+
+.nav-link{
+      color: rgb(8, 6, 143);
+      font: size 22px;
+     
+}
+.card{
+      background-color: rgba(96, 212, 241, 0.479);
+
+}
+
+.texto-card{
+      color: rgb(173, 216, 19);
+      font-size: 20px;
+      display: flex;
+      justify-content: center;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.seccion-cards{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      
+}
+.atr-carousel{
+      width: 800px;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      margin-bottom: 20px;
+      margin-top: 20px;
+     
+ 
+
+}
+.nosotros-port{
+      display: flex;
+      
+      
+      
+     
+}
+.taller{
+      margin-right: 20px;
+
+
+}
+.form-label{
+      color: darkorange;
+}
+
+
+
+
+      
+      
+
+
+
+    
+     
+    
+    
+     
