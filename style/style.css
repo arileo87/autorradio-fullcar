@@ -86,19 +86,19 @@ strong{
       font-size: 22px;
 
 }
+.portadas{
+      margin-left: 20px;
+}
+.col{
+          display: flex;
+          align-items: center;
+          flex-direction: row;
 
 
-
-.-portada{
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
-      width: 1000px;
-      
-      
+          
 }
 
+      
 .p-section{
       color: rgb(146, 106, 5);
       font-size: 30px;
